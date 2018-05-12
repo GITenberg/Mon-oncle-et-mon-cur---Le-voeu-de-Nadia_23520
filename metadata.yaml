@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '25891'
     url: http://www.gutenberg.org/2009/agents/25891
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23520#Mon-oncle-et-mon-cur---Le-voeu-de-Nadia
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2007-11-17'
 gutenberg_type: Text
